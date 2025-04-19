@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stream-app/static/css/main.e3ea0cde.css",
+    "main.js": "/stream-app/static/js/main.a140c114.js",
+    "index.html": "/stream-app/index.html",
+    "main.e3ea0cde.css.map": "/stream-app/static/css/main.e3ea0cde.css.map",
+    "main.a140c114.js.map": "/stream-app/static/js/main.a140c114.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ea0cde.css",
+    "static/js/main.a140c114.js"
+  ]
+}
